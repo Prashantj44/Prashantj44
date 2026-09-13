@@ -31,13 +31,7 @@
   <p><i>"🎓 Learn. ☕ Coffee. 🤖 Build AI. 📱 Ship Apps. 🔁 Repeat."</i></p>
 </div>
 
----
 
-### 🏆 GitHub Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashantj44&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Prashant's Trophies" />
-</p>
 
 ---
 
