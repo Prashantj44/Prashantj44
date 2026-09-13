@@ -22,11 +22,11 @@
 </p>
 
 <p align="right">
-  <a href="javascript:void(0)"><img src="https://komarev.com/ghpvc/?username=Prashantj44&color=7928CA&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Prashantj44&color=7928CA&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
 </p>
 
 <div align="center">
-  <a href="javascript:void(0)"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Vibe Banner"/></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Vibe Banner"/></a>
   <br><br>
   <p><i>"🎓 Learn. ☕ Coffee. 🤖 Build AI. 📱 Ship Apps. 🔁 Repeat."</i></p>
 </div>
@@ -48,19 +48,19 @@
 <table>
   <tr>
     <td width="25%"><b>Programming Languages</b></td>
-    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css&theme=dark" /></a></td>
+    <td><a href="#"><img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>Mobile & Web Frameworks</b></td>
-    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=flutter,react,bootstrap,tailwind&theme=dark" /></a></td>
+    <td><a href="#"><img src="https://skillicons.dev/icons?i=flutter,react,bootstrap,tailwind&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>AI, Cloud & Databases</b></td>
-    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,gcp,mysql,mongodb&theme=dark" /></a></td>
+    <td><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,gcp,mysql,mongodb&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>Developer Tools</b></td>
-    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel&theme=dark" /></a></td>
+    <td><a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel&theme=dark" /></a></td>
   </tr>
 </table>
 
@@ -123,7 +123,7 @@
 ### 🐍 Contribution Snake Game
 
 <p align="center">
-  <a href="javascript:void(0)">
+  <a href="#">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
@@ -137,12 +137,12 @@
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <a href="javascript:void(0)"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/></a>
-  <a href="javascript:void(0)"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/></a>
+  <a href="#"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/></a>
+  <a href="#"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/></a>
 </p>
 
 <p align="center">
-  <a href="javascript:void(0)"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantj44&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantj44&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -150,7 +150,7 @@
 ### 💬 Daily Dev Quote
 
 <p align="center">
-  <a href="javascript:void(0)"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /></a>
+  <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /></a>
 </p>
 
 ---
