@@ -1,6 +1,12 @@
 <h1 align="center"> Hi there! I'm Prashant Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
 <p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prashant-jha-4p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
@@ -20,11 +26,18 @@
 </p>
 
 <div align="center">
-  <p>🚀 <b>AI & Machine Learning Engineer</b> | <b>Cross-Platform Mobile & Full-Stack Developer</b></p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Vibe Banner"/>
   <br><br>
   <p><i>"🎓 Learn. ☕ Coffee. 🤖 Build AI. 📱 Ship Apps. 🔁 Repeat."</i></p>
 </div>
+
+---
+
+### 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashantj44&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Prashant's Trophies" />
+</p>
 
 ---
 
@@ -108,6 +121,18 @@
 
 ---
 
+### 🐍 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
@@ -117,6 +142,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantj44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💬 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
