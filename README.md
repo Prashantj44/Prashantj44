@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! I'm Prashant Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prashantjha" target="_blank">
+  <a href="https://www.linkedin.com/in/prashant-jha-4p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://portfolio-prashantj44s-projects.vercel.app" target="_blank">
