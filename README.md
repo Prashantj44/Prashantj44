@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there! I'm Prashant Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Flutter+%26+Mobile+App+Specialist;Generative+AI+%26+LLM+Agent+Architect;Building+Secure+%26+Scalable+Software" alt="Typing SVG" />
   </a>
 </p>
 
