@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td width="25%"><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,dart,java,cpp,html,css&theme=dark" /></td>
   </tr>
   <tr>
     <td width="25%"><b>Mobile & Web Frameworks</b></td>
@@ -94,7 +94,7 @@
       <h3 align="center">⚙️ <a href="https://github.com/Prashantj44/ai-forge">ai-forge</a></h3>
       <p><b>AI Software Generation Compiler</b> — Converts natural language specifications directly into validated application configurations and boilerplate code.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI_Compiler-008080?style=flat-square"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
@@ -136,7 +136,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true&hide=javascript" height="170"/>
 </p>
 
 <p align="center">
