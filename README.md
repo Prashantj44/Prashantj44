@@ -31,8 +31,6 @@
   <p><i>"🎓 Learn. ☕ Coffee. 🤖 Build AI. 📱 Ship Apps. 🔁 Repeat."</i></p>
 </div>
 
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -115,6 +113,13 @@
 
 ---
 
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 🐍 Contribution Snake Game
 
 <p align="center">
@@ -130,8 +135,8 @@
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
