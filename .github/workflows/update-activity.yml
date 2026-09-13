@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     name: Update README with recent GitHub activity
     steps:
       - uses: actions/checkout@v3
