@@ -22,11 +22,11 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Prashantj44&color=7928CA&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="javascript:void(0)"><img src="https://komarev.com/ghpvc/?username=Prashantj44&color=7928CA&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Vibe Banner"/>
+  <a href="javascript:void(0)"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Vibe Banner"/></a>
   <br><br>
   <p><i>"🎓 Learn. ☕ Coffee. 🤖 Build AI. 📱 Ship Apps. 🔁 Repeat."</i></p>
 </div>
@@ -48,19 +48,19 @@
 <table>
   <tr>
     <td width="25%"><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css&theme=dark" /></td>
+    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>Mobile & Web Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,react,bootstrap,tailwind&theme=dark" /></td>
+    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=flutter,react,bootstrap,tailwind&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>AI, Cloud & Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,gcp,mysql,mongodb&theme=dark" /></td>
+    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,gcp,mysql,mongodb&theme=dark" /></a></td>
   </tr>
   <tr>
     <td width="25%"><b>Developer Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel&theme=dark" /></td>
+    <td><a href="javascript:void(0)"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel&theme=dark" /></a></td>
   </tr>
 </table>
 
@@ -74,18 +74,18 @@
       <h3 align="center">📰 <a href="https://github.com/Prashantj44/echo_news">echo_news</a></h3>
       <p>A premium, professionally architected global news aggregator built with <b>Flutter</b>, <b>Clean Architecture</b>, and <b>BLoC</b>. Categorizes worldwide Google News RSS feeds using <b>Gemini AI</b> and syncs via Firebase.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <a href="https://github.com/Prashantj44/echo_news"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+        <a href="https://github.com/Prashantj44/echo_news"><img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/></a>
+        <a href="https://github.com/Prashantj44/echo_news"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔐 <a href="https://github.com/Prashantj44/MediLocker">MediLocker</a></h3>
       <p>Secure cross-platform medical records vault powered by <b>Flutter</b>, <b>Firebase</b>, and <b>Google Gemini AI</b>. Features AES-256 local encryption and intelligent AI-driven medical summaries.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/AES--256-Encrypted-red?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
+        <a href="https://github.com/Prashantj44/MediLocker"><img src="https://img.shields.io/badge/AES--256-Encrypted-red?style=flat-square"/></a>
+        <a href="https://github.com/Prashantj44/MediLocker"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+        <a href="https://github.com/Prashantj44/MediLocker"><img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -94,18 +94,18 @@
       <h3 align="center">⚙️ <a href="https://github.com/Prashantj44/ai-forge">ai-forge</a></h3>
       <p><b>AI Software Generation Compiler</b> — Converts natural language specifications directly into validated application configurations and boilerplate code.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AI_Compiler-008080?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <a href="https://github.com/Prashantj44/ai-forge"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+        <a href="https://github.com/Prashantj44/ai-forge"><img src="https://img.shields.io/badge/AI_Compiler-008080?style=flat-square"/></a>
+        <a href="https://github.com/Prashantj44/ai-forge"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/Prashantj44/TaskFLow">TaskFlow</a></h3>
       <p>High-performance Task Management app built with <b>Flutter & Firebase</b>. Features real-time Firestore sync, Firebase Auth, daily motivation REST APIs, and glass-morphism UI.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+        <a href="https://github.com/Prashantj44/TaskFLow"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+        <a href="https://github.com/Prashantj44/TaskFLow"><img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
+        <a href="https://github.com/Prashantj44/TaskFLow"><img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/></a>
       </p>
     </td>
   </tr>
@@ -123,11 +123,13 @@
 ### 🐍 Contribution Snake Game
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="javascript:void(0)">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prashantj44/Prashantj44/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </p>
 
 ---
@@ -135,12 +137,12 @@
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="javascript:void(0)"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prashantj44&show_icons=true&theme=tokyonight&hide_border=true" height="170"/></a>
+  <a href="javascript:void(0)"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashantj44&layout=compact&theme=tokyonight&hide_border=true" height="170"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantj44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="javascript:void(0)"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantj44&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -148,7 +150,7 @@
 ### 💬 Daily Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="javascript:void(0)"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /></a>
 </p>
 
 ---
