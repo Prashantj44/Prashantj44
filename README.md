@@ -116,6 +116,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Newer1107/tattvatech/pull/1) in [Newer1107/tattvatech](https://github.com/Newer1107/tattvatech)
 <!--END_SECTION:activity-->
 
 ---
